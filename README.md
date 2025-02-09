@@ -4,7 +4,7 @@ This software was an assignment project for our Statistical and Frequential Mode
 
 There was no starting code.
 
-## work done
+## Work done
 
 We've implemented the following features :
 - Texture extension by generating new pixels from the original texture.
